@@ -1,0 +1,39 @@
+_repo: The-Pedler-of-Dust-Sticks_4040
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Follen, Eliza Lee Cabot
+    aliases:
+    - Cabot, Eliza Lee
+    - Follen, Charles Theodore Christian, Mrs.
+    - Follen, Mrs. (Eliza Lee)
+    birthdate: 1787
+    deathdate: 1860
+    gutenberg_agent_id: '1362'
+    url: http://www.gutenberg.org/2009/agents/1362
+    wikipedia: http://en.wikipedia.org/wiki/Eliza_Lee_Cabot_Follen
+description: ''
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4040'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Musicians -- Juvenile fiction'
+- !lcsh 'Children and death -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Sabbath -- Juvenile fiction'
+- !lcsh 'Germany, Northern -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The pedler of dust sticks -- "On the grave of the good, great man"
+  -- The mighty deeds of ABC -- What day is it? -- The child at her mother's grave
+  -- Evening prayer -- The Sabbath is here -- To a butterfly.
+title: The Pedler of Dust Sticks
+url: http://www.gutenberg.org/ebooks/4040
